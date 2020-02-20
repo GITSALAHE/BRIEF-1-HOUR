@@ -1,0 +1,204 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(1.jpg);
+    height:  967px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header ul{
+    color: white;
+    list-style-type: none;
+    display: inline-flex;
+    float: right;
+    padding-right: 21px;
+}
+    header ul li {
+        margin-left: 32px;
+        font-family: Montserrat;
+    }
+#our{
+    display: inline-block;
+    color: white;
+    font-family: Montserrat;
+    border: 2px solid;
+    width: 11%;
+    position: absolute;
+    top: 243px;
+    left: 900px;
+    font-size: 69px;
+}
+#just-g{
+    display: inline-block;
+    color: white;
+    font-family: Montserrat;
+    width: 11%;
+    position: absolute;
+    top: 456px;
+    left: 900px;
+    font-size: 38px;
+}
+header div{
+    position: relative;
+    top: 208px;
+    right: 401px;
+}
+#our-food{
+    background-image: url(2.jpg);
+    height: 800px;
+}
+#r{
+    position: relative;
+    left: 403px;
+    top: 97px;
+    margin-right: 28px;
+    height: 655px;
+}
+#rl1{
+    position: absolute;
+    top: 1206px;
+    left: 452px;
+}
+#rl2{
+    position: absolute;
+    top: 1218px;
+    left: 830px;
+}
+#rl3{
+    position: absolute;
+    top: 1219px;
+    left: 1221px;
+}
+#it{
+    position: absolute;
+    left: 499px;
+    top: 1276px;
+    font-family: Montserrat;
+    color: white;
+}
+#it-s{
+    color: white;
+    position: absolute;
+    top: 1393px;
+    left: 488px;
+    font-family: Britannic;
+    font-size: 11px;
+}
+#it1{
+    position: absolute;
+    left: 887px;
+    top: 1276px;
+    font-family: Montserrat;
+    color: white;
+}
+#it-s1{
+    color: white;
+    position: absolute;
+    top: 1393px;
+    left: 876px;
+    font-family: Britannic;
+    font-size: 11px;
+}
+#it2{
+    position: absolute;
+    left: 1274px;
+    top: 1282px;
+    font-family: Montserrat;
+    color: white;
+    font-size: 1.8em;
+}
+#it-s2{
+    color: white;
+    position: absolute;
+    top: 1393px;
+    left: 1267px;
+    font-family: Britannic;
+    font-size: 11px;
+}
+#map{
+    background-image: url(maps.jpg);
+    height: 657px;
+}
+#map img{
+    position: relative;
+    left: 96px;
+    top: 145px;
+}
+#map-visted{
+    width: 20%;
+    left: 180px;
+    bottom: 251px;
+    position: relative;
+    color: white;
+    font-family: montserrat;
+    font-size: 36px;
+}
+#map-text{
+    color: white;
+    position: relative;
+    bottom: 255px;
+    font-family: Montserrat;
+    font-size: 15px;
+    left: 170px;
+    width: 20%;
+}
+#map-time{
+    position: relative;
+    bottom: 256px;
+    left: 169px;
+    color: white;
+    width: 20%;
+    font-size: 27px;
+    font-family: Montserrat;
+}
+footer{
+    background-image: url(footer1.jpg);
+    height: 380px;
+}
+#f-ul {
+    display: inline-flex;
+    list-style-type: none;
+    position: relative;
+    top: 190px;
+    left: 190px;
+
+}
+#f-ul li {
+    margin-left: 54px;
+    color: white;
+    font-family: Montserrat;
+}
+footer h1{
+    width: 6%;
+    position: relative;
+    top: 75px;
+    left: 802px;
+    font-family: Montserrat;
+    color: white;
+    border: 2px solid;
+    padding: 26px;
+}
+
+footer a {
+    text-decoration: none;
+}
+#s-ul {
+    display: inline-flex;
+    list-style-type: none;
+    position: relative;
+    left: 967px;
+    bottom: 38px;
+
+}
+#s-ul li {
+    margin-left: 54px;
+    color: white;
+    font-family: Montserrat;
+}
+footer div {
+    position: relative;
+    left: 75px;
+    width: 81%;
+}
