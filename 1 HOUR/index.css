@@ -165,6 +165,13 @@ footer{
     left: 190px;
 
 }
+.actif{
+    border: 2px solid;
+    border-color: red;
+    padding: 6px;
+    position: relative;
+    bottom: 7px;
+}
 #f-ul li {
     margin-left: 54px;
     color: white;
