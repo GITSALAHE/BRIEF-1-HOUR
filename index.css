@@ -8,6 +8,11 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
 }
+ header ul a {
+    text-decoration: none;
+    color: white;
+}
+
 header ul{
     color: white;
     list-style-type: none;
@@ -128,7 +133,7 @@ header div{
 }
 #map-visted{
     width: 20%;
-    left: 180px;
+    left: 172px;
     bottom: 251px;
     position: relative;
     color: white;
